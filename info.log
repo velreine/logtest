@@ -1,0 +1,4 @@
+{"message":"Some info message!","level":"info","timestamp":"2019-03-15T12:57:23.996Z"}
+{"message":"Some error message!","level":"error","timestamp":"2019-03-15T12:57:24.003Z"}
+{"message":"Some info message!","level":"info","timestamp":"2019-03-15T12:57:59.758Z"}
+{"message":"Some error message!","level":"error","timestamp":"2019-03-15T12:57:59.766Z"}
